@@ -11,4 +11,4 @@ and nothing happens. Below there's a list of available options.
 #### [i]NSERT MODE
 Allows you to write, move around and delete stuff.
 
-###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
+###### jstmax! : <jstmaxlol@disroot.org>, <maxwasmailed@proton.me>
