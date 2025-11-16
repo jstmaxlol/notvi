@@ -5,7 +5,7 @@
 
 /*
  * NotVi, either a Vi "clone" or me trying ncurses out, you choose.
- * jstmax! / ceez2exzt / maxwasmailed@proton.me
+ * jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
 */
 
 // Functions prototypes aka forward declarations

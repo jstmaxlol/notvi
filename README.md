@@ -10,3 +10,5 @@ and nothing happens. Below there's a list of available options.
 -- `tabstop`/`tab` : Choose the length in spaces that a **TAB** will insert. (Default = 4)
 #### [i]NSERT MODE
 Allows you to write, move around and delete stuff.
+
+###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
